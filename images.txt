@@ -8,3 +8,9 @@ gitea/gitea
 vaultwarden/server
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+quay.io/prometheus/node-exporter
+hslr/sun-panel
+haishanh/yacd
+whyour/qinglong
+p3terx/aria2-pro
+grafana/grafana-enterprise      
