@@ -14,3 +14,4 @@ haishanh/yacd
 whyour/qinglong
 p3terx/aria2-pro
 grafana/grafana-enterprise      
+containrrr/watchtower
