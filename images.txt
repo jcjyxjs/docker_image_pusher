@@ -16,3 +16,4 @@ p3terx/aria2-pro
 grafana/grafana-enterprise      
 containrrr/watchtower
 bestoray/pgyvpn
+homeassistant/home-assistant
