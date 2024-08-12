@@ -18,3 +18,4 @@ containrrr/watchtower
 bestoray/pgyvpn
 homeassistant/home-assistant
 snowdreamtech/frpc
+hslr/sun-panel
