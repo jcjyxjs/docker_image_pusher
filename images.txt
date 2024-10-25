@@ -18,3 +18,4 @@ frooodle/s-pdf
 jellyfin/jellyfin
 linuxserver/qbittorrent
 centos:centos7
+dreamacro/clash
