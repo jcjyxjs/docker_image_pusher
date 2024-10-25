@@ -1,13 +1,8 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 drone/drone:latest
 drone/drone-runner-docker
 gitea/gitea
 vaultwarden/server
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
 quay.io/prometheus/node-exporter
 hslr/sun-panel
 haishanh/yacd
@@ -21,3 +16,5 @@ snowdreamtech/frpc
 hslr/sun-panel
 frooodle/s-pdf
 jellyfin/jellyfin
+linuxserver/qbittorrent
+centos:centos7
