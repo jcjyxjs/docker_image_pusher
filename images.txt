@@ -19,3 +19,4 @@ jellyfin/jellyfin
 linuxserver/qbittorrent
 centos:centos7
 dreamacro/clash
+neilpang/acme.sh
