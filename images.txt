@@ -21,3 +21,4 @@ centos:centos7
 dreamacro/clash
 neilpang/acme.sh
 tailscale/tailscale:latest
+jeessy2/ddns-go
