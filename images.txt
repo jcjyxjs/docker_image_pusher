@@ -1,7 +1,7 @@
 xhofe/alist:latest
 # drone/drone:latest
 # drone/drone-runner-docker
-gitea/gitea
+# gitea/gitea
 vaultwarden/server
 # quay.io/prometheus/node-exporter
 hslr/sun-panel
@@ -9,16 +9,16 @@ haishanh/yacd
 whyour/qinglong
 # p3terx/aria2-pro
 # grafana/grafana-enterprise      
-containrrr/watchtower
+# containrrr/watchtower
 # bestoray/pgyvpn
 homeassistant/home-assistant
 # snowdreamtech/frpc
 # frooodle/s-pdf
 jellyfin/jellyfin
 linuxserver/qbittorrent
-centos:centos7
+# centos:centos7
 dreamacro/clash
 neilpang/acme.sh
 # tailscale/tailscale:latest
 ghcr.io/jeessy2/ddns-go
-diygod/rsshub
+# diygod/rsshub
