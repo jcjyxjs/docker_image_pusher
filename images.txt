@@ -25,4 +25,4 @@
 # jc21/nginx-proxy-manager:latest
 # nginx:latest
 # emby/embyserver
-mihomo/mihomo:latest
+metacubex/mihomo:latest
