@@ -5,7 +5,7 @@
 # vaultwarden/server
 # quay.io/prometheus/node-exporter
 # hslr/sun-panel
-haishanh/yacd
+# haishanh/yacd
 # whyour/qinglong
 # p3terx/aria2-pro
 # grafana/grafana-enterprise      
@@ -17,11 +17,12 @@ haishanh/yacd
 # jellyfin/jellyfin
 # linuxserver/qbittorrent
 # centos:centos7
-dreamacro/clash
+# dreamacro/clash
 # neilpang/acme.sh
 # tailscale/tailscale:latest
 # ghcr.io/jeessy2/ddns-go
 # diygod/rsshub
-jc21/nginx-proxy-manager:latest
+# jc21/nginx-proxy-manager:latest
 # nginx:latest
 # emby/embyserver
+mihomo/mihomo:latest
