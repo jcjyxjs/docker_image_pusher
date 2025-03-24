@@ -25,4 +25,5 @@
 # jc21/nginx-proxy-manager:latest
 # nginx:latest
 # emby/embyserver
-metacubex/mihomo:latest
+# metacubex/mihomo:latest
+snowdreamtech/frpc
