@@ -28,3 +28,4 @@
 # metacubex/mihomo:latest
 # snowdreamtech/frpc
 superng6/qbittorrent
+ghcr.io/yuukiy/javsp
