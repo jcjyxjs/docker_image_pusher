@@ -30,3 +30,4 @@
 superng6/qbittorrent
 ubuntu:22.04
 linuxserver/wireguard
+tobyxdd/hysteria
