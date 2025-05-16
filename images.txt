@@ -29,3 +29,4 @@
 # snowdreamtech/frpc
 superng6/qbittorrent
 ubuntu:22.04
+linuxserver/wireguard
