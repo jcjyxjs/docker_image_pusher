@@ -1,33 +1,34 @@
-# xhofe/alist:latest
-# drone/drone:latest
-# drone/drone-runner-docker
-# gitea/gitea
-# vaultwarden/server
-# quay.io/prometheus/node-exporter
-# hslr/sun-panel
-# haishanh/yacd
-# whyour/qinglong
-# p3terx/aria2-pro
-# grafana/grafana-enterprise      
-# containrrr/watchtower
-# bestoray/pgyvpn
-# homeassistant/home-assistant
-# snowdreamtech/frpc
-# frooodle/s-pdf
-# jellyfin/jellyfin
-# linuxserver/qbittorrent
-# centos:centos7
-# dreamacro/clash
-# neilpang/acme.sh
-# tailscale/tailscale:latest
-# ghcr.io/jeessy2/ddns-go
-# diygod/rsshub
-# jc21/nginx-proxy-manager:latest
-# nginx:latest
-# emby/embyserver
-# metacubex/mihomo:latest
-# snowdreamtech/frpc
+xhofe/alist:latest
+drone/drone:latest
+drone/drone-runner-docker
+gitea/gitea
+vaultwarden/server
+quay.io/prometheus/node-exporter
+hslr/sun-panel
+haishanh/yacd
+whyour/qinglong
+p3terx/aria2-pro
+grafana/grafana-enterprise      
+containrrr/watchtower
+bestoray/pgyvpn
+homeassistant/home-assistant
+snowdreamtech/frpc
+frooodle/s-pdf
+jellyfin/jellyfin
+linuxserver/qbittorrent
+centos:centos7
+dreamacro/clash
+neilpang/acme.sh
+tailscale/tailscale:latest
+ghcr.io/jeessy2/ddns-go
+diygod/rsshub
+jc21/nginx-proxy-manager:latest
+nginx:latest
+emby/embyserver
+metacubex/mihomo:latest
+snowdreamtech/frpc
 superng6/qbittorrent
 ubuntu:22.04
 linuxserver/wireguard
 tobyxdd/hysteria
+adguard/adguardhome
