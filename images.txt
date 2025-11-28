@@ -29,3 +29,4 @@ linuxserver/wireguard
 tobyxdd/hysteria
 adguard/adguardhome
 n8nio/n8n
+mysql:8.4.7
