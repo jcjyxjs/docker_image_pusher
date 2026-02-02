@@ -13,7 +13,7 @@
 # homeassistant/home-assistant
 # snowdreamtech/frpc
 # frooodle/s-pdf
-# jellyfin/jellyfin
+# jellyfin/jellyfin #这个不启用
 # linuxserver/qbittorrent
 # dreamacro/clash
 # neilpang/acme.sh
