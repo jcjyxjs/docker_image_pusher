@@ -36,3 +36,4 @@
 # netdata/netdata
 # rustfs/rustfs:latest
 # nyanmisaka/jellyfin:latest
+openlistteam/openlist:latest
